@@ -1,6 +1,6 @@
 ## Object Classes
 Class 1: Monkey  (300 images) <br>
-Class 2: Lion  (300 images) 
+Class 2: Panda  (300 images) 
 
 ## Naming conventions
 Image001 - Image300 <br>
