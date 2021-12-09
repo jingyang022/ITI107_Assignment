@@ -1,10 +1,10 @@
 ## Object Classes
-Class 1: Monkey  (300 images) <br>
-Class 2: Panda  (300 images) 
+Class 1: Monkey  (200 images) <br>
+Class 2: Panda  (200 images) 
 
 ## Naming conventions
 Image001 - Image200 <br>
-Image301 - Image600
+Image201 - Image400
 
 ## Pretrained models
 JY: Faster R-CNN ResNet50 V1 640x640  <br>
