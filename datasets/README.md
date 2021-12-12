@@ -1,15 +1,18 @@
 ## Object Classes
-Class 1: Monkey  (200 images) <br>
-Class 2: Panda  (200 images) 
+Class 1: Buffalo  (200 images) <br>
+Class 2: Elephant  (200 images) <br>
+Class 3: Leopard  (200 images) <br>
+Class 4: Lion  (200 images) <br>
+Class 5: Rhino  (200 images) 
 
 ## Naming conventions
-Image001 - Image200 <br>
-Image201 - Image400
+Image0001 - Image1000 <br>
 
 ## Contents of the dataset: 
-- 400 images in total (consists of monkey and panda images)
+- 1000 images 
+- 1000 annotations
 
-- The 400 images consists of:
-- 100 monkey images from Google Search
-- 100 monkey images from Kaggle Monkey dataset (https://www.kaggle.com/slothkong/10-monkey-species)
-- 200 panda images from Kaggle Animal Image Dataset(DOG, CAT and PANDA) (https://www.kaggle.com/ashishsaxena2209/animal-image-datasetdog-cat-and-panda)
+## The 1000 images are from the following sources:
+- Buffalo, elephant and rhino images are from Kaggle African Wildlife dataset (https://www.kaggle.com/biancaferreira/african-wildlife)
+- Lion and Leopard images are downloaded from the Internet via Web scraping tools
+- Annotation of the images are done via Roboflow annotation tool
