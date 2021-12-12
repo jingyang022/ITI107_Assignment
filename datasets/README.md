@@ -17,4 +17,6 @@ Image0001 - Image1000 <br>
 - Lion and Leopard images are downloaded from the Internet via Web scraping tools
 - Annotation of the images are done via Roboflow annotation tool
 
-## The sample picture and video is for you to test your model.
+## Sample picture and video to test the model:
+- Image file: sample_big_five_img.jpg
+- Video file: sample_big_five_vid.mp4
