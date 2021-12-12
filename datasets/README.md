@@ -1,8 +1,8 @@
 ## Object Classes
 Class 1: Elephant  (200 images) <br>
-Class 2: Lion  (200 images) 
-Class 3: Leopard  (200 images) 
-Class 4: Buffalo  (200 images) 
+Class 2: Lion  (200 images) <br>
+Class 3: Leopard  (200 images) <br>
+Class 4: Buffalo  (200 images) <br>
 Class 5: Rhino  (200 images) 
 
 ## Naming conventions
