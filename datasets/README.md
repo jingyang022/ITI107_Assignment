@@ -1,13 +1,16 @@
 ## Object Classes
-Class 1: Monkey  (200 images) <br>
-Class 2: Panda  (200 images) 
+Class 1: Elephant  (200 images) <br>
+Class 2: Lion  (200 images) 
+Class 3: Leopard  (200 images) 
+Class 4: Buffalo  (200 images) 
+Class 5: Rhino  (200 images) 
 
 ## Naming conventions
-Image001 - Image200 <br>
-Image201 - Image400
+Image001 - Image1000 <br>
 
 ## Contents of the dataset: 
-- 400 images in total (consists of monkey and panda images)
+- 1000 images 
+- 1000 annotations
 
 - The 400 images consists of:
 - 100 monkey images from Google Search
