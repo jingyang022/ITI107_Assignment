@@ -16,3 +16,5 @@ Image0001 - Image1000 <br>
 - Buffalo, elephant and rhino images are from Kaggle African Wildlife dataset (https://www.kaggle.com/biancaferreira/african-wildlife)
 - Lion and Leopard images are downloaded from the Internet via Web scraping tools
 - Annotation of the images are done via Roboflow annotation tool
+
+## The sample picture and video is for you to test your model.
