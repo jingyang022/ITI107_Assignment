@@ -12,6 +12,7 @@ Image001 - Image1000 <br>
 - 1000 images 
 - 1000 annotations
 
-- The 1000 images are from the following sources:
+## The 1000 images are from the following sources:
 - Buffalo, elephant and rhino images are from Kaggle Monkey dataset (https://www.kaggle.com/biancaferreira/african-wildlife)
-
+- Lion and Leopard images are downloaded from the Internet via Web scraping tools
+- Annotation of the images are done via Roboflow annotation tool
