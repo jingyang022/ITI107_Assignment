@@ -2,5 +2,5 @@
 
 ## Pretrained models
 SSD ResNet50 V1 FPN 640x640 <br>
-EfficientDet D0 512x512
+EfficientDet D0 512x512 <br>
 EfficientDet D1 640x640
